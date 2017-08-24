@@ -4,4 +4,7 @@ A simple blank website to quick-start static HTML builds.
 
 ## Getting Started
 
-Just click download! There's no PHP so no need for a web server.
+
+
+temp live project link 
+http://benoftheuniverse.me/project_02_KeyDrums/
