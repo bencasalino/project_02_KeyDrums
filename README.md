@@ -15,8 +15,8 @@ This website contains all information pertaining to Ben Casalino. Use this app t
 ## App Layout
 ![Layout of the Website](Layout.png)
 
-- Link to: [Deployed front-end URL](https://bencasalino.com/)
-- Link to: [Code Frontend Repo](https://github.com/bencasalino/BenCasalino-Portfolio/)
+- Link to: [Deployed front-end URL](https://keyboard-drums.firebaseapp.com/)
+- Link to: [My Repo](https://github.com/bencasalino/)
 
 # Legal
 Copyright (c) 2018 **_Benjamin M. Casalino_**
